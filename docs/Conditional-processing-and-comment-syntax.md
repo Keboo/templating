@@ -393,7 +393,7 @@ In this sample, conditional expression is inside the comment `<!--` and `-->` in
 
 #### File Extensions
 
-`.*proj`, `.proj.user`, `.msbuild`, `.targets`, `.props`
+`.*proj`, `.proj.user`, `.msbuild`, `.targets`, `.props`, `.slnx`
 
 MSBuild files, in addition to the `#if`, `#else`, `#elseif`, `#endif` inside an xml type comment, a **Condition** expression could be added to an element.  
   
